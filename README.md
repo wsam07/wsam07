@@ -50,7 +50,7 @@ We encourage contributions from the community to enhance and expand the SCS reso
 - **Project Leader:** [Shashank](https://www.linkedin.com/in/shashank-in/).
 
 
-To get involved or contact the leadership, please visit the [OWASP Contact Page](https://scs.owasp.org/contact/)
+To get involved or contact the leadership, please visit the [OWASP Contact Page](https://scs.owasp.org/contact/).
 
 ---
 ### **Engage with the Community**
