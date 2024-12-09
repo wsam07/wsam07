@@ -34,5 +34,6 @@ jobs:
           pip install mkdocs-material
           pip install markdown-grid-tables
           pip install mkdocs-awesome-pages-plugin==2.6.1
+          pip install mkdocs-mermaid2-plugin
 
       - run: mkdocs gh-deploy --force
