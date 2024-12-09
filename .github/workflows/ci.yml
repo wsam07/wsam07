@@ -36,5 +36,6 @@ jobs:
           pip install mkdocs-awesome-pages-plugin==2.6.1
           pip install mkdocs-mermaid2-plugin
           pip install pandas
+          pip install tabulate
 
       - run: mkdocs gh-deploy --force
