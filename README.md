@@ -56,7 +56,7 @@ To get involved or contact the leadership, please visit the [OWASP Contact Page]
 ### **Engage with the Community**
 Join the discussion and stay updated by following the OWASP SCS community on our official channels.
 
-> [Request an invitation](https://owasp.slack.com/archives/C07MNDE6TPZ) to join our Slack channel `#owasp-scs`
+> [Request an invitation](https://owasp.slack.com/archives/C07MNDE6TPZ) to join our Slack channel `#owasp-scs`.
 
 ---
 
