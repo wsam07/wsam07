@@ -6,7 +6,7 @@ hide:
 
 # &#128172; Connect with Us
 
-<img src="../../assets/logo.svg" width="150px" style="margin-left: 4em; margin-top: 0em;" align="right">
+<img src="../assets/logo_circle.png_" width="150px" style="margin-left: 4em; margin-top: 0em;" align="right">
 
 You can follow and reach out to the OWASP SCS team in many ways.
 
